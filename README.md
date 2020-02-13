@@ -3,7 +3,7 @@
 # iOS Switch Control App
 Switch Control App is written in Swift language for iOS.
 
-![iOS Switch Control](https://user-images.githubusercontent.com/45048950/73611055-e4341780-4618-11ea-8482-a07cb23832e4.gif)
+![iOS Switch Control](https://user-images.githubusercontent.com/45048950/74455782-d3a95a00-4ec0-11ea-9d2a-bcd1991b5a04.gif)
 
 ### Built With :
 
